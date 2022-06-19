@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69566707357",
+    "project_id": "pa-pemob",
+    "storage_bucket": "pa-pemob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69566707357:android:76329dca442330f2a80674",
+        "android_client_info": {
+          "package_name": "com.example.projek_pemob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69566707357-iij66744iv9n4od57iilsphv6jsiop1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIhE2UeAxxBnjm4a9MLKJVwj9EF65XnGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69566707357-iij66744iv9n4od57iilsphv6jsiop1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
